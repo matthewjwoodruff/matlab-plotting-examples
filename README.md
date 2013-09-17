@@ -1,4 +1,4 @@
-This fork is out of date since Jon gave me permission to write to his repo.  I've made all my updates to that reepo instead.  Nothing to see here, move along.
+This fork is out of date since Jon gave me permission to write to his repo.  I've made all my updates to that repo instead.  Nothing to see here, move along.
 
 
 
